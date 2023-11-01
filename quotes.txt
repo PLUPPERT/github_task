@@ -1,3 +1,4 @@
 ﻿- "Programming is the art of algorithm design and the craft of debugging errant code." – Ellen Ullman
 - "Coding like poetry should be short and concise." ― Santosh Kalwar
 - "Software is like sex: it’s better when it’s free." – Linus Torvalds
+- "Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it." – Ellen Ullman
