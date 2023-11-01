@@ -3,3 +3,4 @@
 - "Software comes from heaven when you have good hardware." – Ken Olsen
 - "Software is like sex: it’s better when it’s free." – Linus Torvalds
 - "Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it." – Ellen Ullman
+- "You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity." – John Romero
